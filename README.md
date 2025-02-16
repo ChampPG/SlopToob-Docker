@@ -10,7 +10,7 @@ You want the following directory structure for this project to work the data, ou
 ├── data
 │   ├── output
 │   └── .env
-├── docker-compose.yml
+└── docker-compose.yml
 ```
 
 ### Docker
